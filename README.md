@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Marco Bosquez 👋
 
-<!--
-**MarcoBosglez/marcobosglez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** and **Digital Artist** pursuing my M.S. in Computer Science at DigiPen. I specialize in backend development, AI integration, full-stack web development, and digital art.
 
-Here are some ideas to get you started:
+- 🎓 **Education:** M.S. Computer Science @ DigiPen | B.S. CS & Tech @ Tec de Monterrey
+- 💼 **Experience:** Ex-Backend Developer @ Capgemini/BBVA | Ex-Parse Engineer @ Scale AI | Google SPS Alumni
+- 🎨 **Creative Space:** Building interactive tools, web platforms, and digital art
+- 🚀 **Currently Building:** [morkdemark](https://morkdemark.vercel.app) — My personal portfolio and creative hub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech & Tools
+**Languages & Frameworks:** Node.js, TypeScript, JavaScript, React, Next.js, Java, Python, Tailwind CSS, Vercel
+**Cloud & Databases:** AWS, Google Cloud, MongoDB
+**Creative Tools:** Clip Studio Paint, Affinity
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/marco-bosquez-5580271a1) | 🌐 [Website](https://morkdemark.vercel.app)
