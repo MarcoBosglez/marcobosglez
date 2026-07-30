@@ -16,4 +16,12 @@ I'm a **Software Engineer** and **Digital Artist** pursuing my M.S. in Computer 
 
 ---
 
+Outside of Tech:
+
+🎨 Digital Art & Illustration
+🥋 Martial Arts & Gym
+🎮 Video Games & Game Design
+
+---
+
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/marco-bosquez-5580271a1) | 🌐 [Website](https://morkdemark.vercel.app)
