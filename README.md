@@ -2,14 +2,14 @@
 
 I'm a **Software Engineer** and **Digital Artist** pursuing my M.S. in Computer Science at DigiPen. I specialize in backend development, AI integration, full-stack web development, and digital art.
 
-- 🎓 **Education:** M.S. Computer Science @ DigiPen | B.S. CS & Tech @ Tec de Monterrey
-- 💼 **Experience:** Ex-Backend Developer @ Capgemini/BBVA | Ex-Parse Engineer @ Scale AI | Google SPS Alumni
-- 🎨 **Creative Space:** Building interactive tools, web platforms, and digital art
-- 🚀 **Currently Building:** [morkdemark](https://morkdemark.vercel.app) — My personal portfolio and creative hub
+- **Education:** M.S. Computer Science @ DigiPen | B.S. CS & Tech @ Tec de Monterrey
+- **Experience:** Ex-Backend Developer @ Capgemini/BBVA | Ex-Parse Engineer @ Scale AI | Google SPS Alumni
+-  **Creative Space:** Building interactive tools, web platforms, and digital art
+-  **Currently Building:** [macdmrk](https://macdmrk.vercel.app) — My personal portfolio and creative hub
 
 ---
 
-### 🛠️ Tech & Tools
+### Tech & Tools
 **Languages & Frameworks:** Node.js, TypeScript, JavaScript, React, Next.js, Java, Python, Tailwind CSS, Vercel
 **Cloud & Databases:** AWS, Google Cloud, MongoDB
 **Creative Tools:** Clip Studio Paint, Affinity
@@ -18,10 +18,10 @@ I'm a **Software Engineer** and **Digital Artist** pursuing my M.S. in Computer 
 
 Outside of Tech:
 
-🎨 Digital Art & Illustration
-🥋 Martial Arts & Gym
-🎮 Video Games & Game Design
+Digital Art & Illustration
+Martial Arts & Gym
+Video Games & Game Design
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/marco-bosquez-5580271a1) | 🌐 [Website](https://morkdemark.vercel.app)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/marco-bosquez) | 🌐 [Website](https://macdmrk.vercel.app)
