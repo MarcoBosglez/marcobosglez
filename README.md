@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** and **Digital Artist** pursuing my M.S. in Computer Science at DigiPen. I specialize in backend development, AI integration, full-stack web development, and digital art.
 
-- **Education:** M.S. Computer Science @ DigiPen | B.S. CS & Tech @ Tec de Monterrey
+- **Education:** M.S. Computer Science @ DigiPen | B.S. CS & Tech @ Tecnologico de Monterrey (ITESM)
 - **Experience:** Ex-Backend Developer @ Capgemini/BBVA | Ex-Parse Engineer @ Scale AI | Google SPS Alumni
 -  **Creative Space:** Building interactive tools, web platforms, and digital art
 -  **Currently Building:** [macdmrk](https://macdmrk.vercel.app) — My personal portfolio and creative hub
